@@ -9,6 +9,7 @@ class Solution {
                 if(nums[j]==a){
                     cnt++;
                     arr[j]=true;
+                    if(cnt>nums.length/2) return a;
                 }
             }
             if(cnt>max){
