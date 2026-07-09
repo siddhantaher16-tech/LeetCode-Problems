@@ -1,5 +1,5 @@
 /* Write your PL/SQL query statement below */
 select email
-from person
+from Person
 group by email 
-having count(email)>1;
+having COUNT(email)>1;
