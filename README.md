@@ -46,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0196-delete-duplicate-emails) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
