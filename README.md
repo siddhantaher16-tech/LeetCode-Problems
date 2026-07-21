@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Database
 |  |
 | ------- |
@@ -90,8 +91,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
