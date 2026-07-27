@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Simulation
 |  |
