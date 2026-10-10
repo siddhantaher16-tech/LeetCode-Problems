@@ -10,4 +10,4 @@ SELECT m.name
 FROM Employee e, Employee m
 WHERE e.managerId = m.id
 GROUP BY m.id, m.name
-HAVING count(*)>4;
+HAVING count(m.id)>4;
