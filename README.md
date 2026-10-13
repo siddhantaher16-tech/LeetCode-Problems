@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0067-add-binary) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Sliding Window
