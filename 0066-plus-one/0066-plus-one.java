@@ -10,8 +10,8 @@ class Solution {
         }
         int[] arr = new int[digits.length+1];
         if(digits[0]==0){
-            for(int i=0; i<arr.length; i++)
-                arr[i]=0;
+            // for(int i=0; i<arr.length; i++)
+            //     arr[i]=0;
             arr[0]=1;
             return arr;
         }
