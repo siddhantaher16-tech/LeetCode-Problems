@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1436-destination-city](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1436-destination-city) |
 ## Divide and Conquer
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
