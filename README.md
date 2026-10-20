@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0434-number-of-segments-in-a-string](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
