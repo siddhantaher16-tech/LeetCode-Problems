@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0012-integer-to-roman) |
+| [0032-longest-valid-parentheses](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -179,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
