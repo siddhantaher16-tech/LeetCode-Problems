@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1154-day-of-the-year) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [2140-solving-questions-with-brainpower](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/2140-solving-questions-with-brainpower) |
 ## Greedy
@@ -197,5 +199,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
