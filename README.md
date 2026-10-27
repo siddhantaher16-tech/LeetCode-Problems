@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1288-remove-covered-intervals](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [2140-solving-questions-with-brainpower](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/2140-solving-questions-with-brainpower) |
 ## Greedy
