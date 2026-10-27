@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1288-remove-covered-intervals](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1436-destination-city](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1436-destination-city) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2140-solving-questions-with-brainpower](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/2140-solving-questions-with-brainpower) |
 ## Hash Table
 |  |
