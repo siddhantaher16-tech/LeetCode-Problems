@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0500-keyboard-row](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1288-remove-covered-intervals](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1436-destination-city](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1436-destination-city) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0500-keyboard-row](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1436-destination-city](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1436-destination-city) |
 ## Divide and Conquer
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
