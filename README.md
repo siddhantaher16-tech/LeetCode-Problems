@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0520-detect-capital) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1154-day-of-the-year) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 ## Dynamic Programming
 |  |
