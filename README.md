@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1436-destination-city](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1436-destination-city) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [1288-remove-covered-intervals](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 ## Counting
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0434-number-of-segments-in-a-string) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
