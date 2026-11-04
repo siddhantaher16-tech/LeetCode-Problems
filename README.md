@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [2140-solving-questions-with-brainpower](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/2140-solving-questions-with-brainpower) |
 ## Greedy
