@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1154-day-of-the-year) |
 ## Sliding Window
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [2140-solving-questions-with-brainpower](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/2140-solving-questions-with-brainpower) |
 ## Greedy
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 ## String Matching
 |  |
 | ------- |
