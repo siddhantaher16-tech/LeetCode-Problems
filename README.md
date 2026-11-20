@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1154-day-of-the-year) |
 | [1436-destination-city](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1436-destination-city) |
+| [1668-maximum-repeating-substring](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1668-maximum-repeating-substring) |
 ## Database
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1668-maximum-repeating-substring) |
 | [2140-solving-questions-with-brainpower](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/2140-solving-questions-with-brainpower) |
 ## Greedy
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
+| [1668-maximum-repeating-substring](https://github.com/siddhantaher16-tech/LeetCode-Problems/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |
